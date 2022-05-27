@@ -1,4 +1,4 @@
-# friendly_chat
+# friendly_chat created by Fidelis Nwabisi
 
 A new Flutter project.
 
