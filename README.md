@@ -1,4 +1,4 @@
-# friendly_chat created by Fidelis Nwabisi
+# friendly_chat created by Fidelis Nwabisi. @fidelisnwabisi on all social media
 
 A new Flutter project.
 
